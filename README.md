@@ -1,4 +1,4 @@
-# Cria-o-de-Menu---Game-Guardian
+# Criar-Menu---Game-Guardian
 ChangeLog:
 
 🔰criação e edição + suporte a menu simpes e modificação de componentes 
